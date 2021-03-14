@@ -1,4 +1,4 @@
-Hello. My name is Alexander. 
+Hello. My name is Aleksander. 
 Now I am working on XML-scripts for a voice robot and support for SQL-dashboards. 
 I am currently studying Java and Java FX. 
 I am interested in Java backend development. 
